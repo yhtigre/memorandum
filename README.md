@@ -4,4 +4,4 @@
 諸々メモ。
 
 ## 索引
-* [](bonding_guide_for_RHEL5.pdf)
+* [VirtualBox仮想ディスクを増やす]()
